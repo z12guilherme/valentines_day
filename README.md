@@ -11,7 +11,7 @@ Este projeto é uma página interativa e criativa dedicada ao Dia dos Namorados,
 ## 📂 Estrutura do Projeto
 
 - `index.html`: Estrutura principal da página.
-- `style.css`: Arquivo de estilo para estilização visual.
+- `styles.css`: Arquivo de estilo para estilização visual.
 - `script.js`: Código JavaScript para elementos interativos.
 - `assets/`: Imagens, ícones e outros recursos visuais.
 
